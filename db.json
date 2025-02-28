@@ -1,5 +1,57 @@
 {
-"userinfo":["xh1","xh2"],
-  "name": "1",
-"versionmessage":"1"
+  "userinfo": {
+    "privacy": {
+      "version": "V1.0aviator",
+      "msg": "1",
+      "isios": 0,
+      "iosU": "6b6w7kogekn4",
+      "Area": [
+    {
+          "key": "PH",
+          "name": "1",
+          "value": "https://www.jilihot100.com/?affiliateCode=ph16app09",
+          "code": "https://images.1097638.com/wsd-images-prod/allin88/merchant_resource/android/allin88_2.4.62_20250119191500.apk"
+        },
+        {
+          "key": "BD",
+          "name": "1",
+          "value": "https://www.jilievobdt6.com/index?affiliateCode=appbd547",
+          "code": "https://images.6929183.com/wsd-images-prod/evobdtf2/merchant_resource/android/evobdtf2_2.4.58_20250109134959_20250109140234.apk"
+        },
+        {
+          "key": "BR",
+          "name": "1",
+          "value": "https://www.betizinha.com/s.html?c=betapp14",
+          "code": ""
+        }
+      ],
+      "Event": [
+        "test",
+        "register",
+        "Log_in",
+        "Place_an_order",
+        "pay",
+        "firstDepositArrival",
+        "login",
+        "deposit",
+        "redeposit",
+        "withdraw"
+      ],
+      "ID": [
+        "testid",
+        "g9vi0y",
+        "ug1gkm",
+        "sx8lep",
+        "8tyaee",
+        "r9rr4j",
+        "1aznne",
+        "1ie2wf",
+        "ancy5n",
+        "j4zbtw"
+      ],
+      "quertip": [
+        
+      ]
+    }
+  }
 }
